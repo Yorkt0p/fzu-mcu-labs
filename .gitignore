@@ -1,0 +1,24 @@
+# Keil uVision build output
+*.hex
+*.obj
+*.lst
+*.m51
+*.lnp
+*.map
+*.plg
+*.sbr
+*.crf
+*.axf
+*.o
+*.d
+*.bak
+*.uvgui.*
+*.uvguix.*
+
+# Build directories
+Objects/
+Listings/
+
+# OS
+Thumbs.db
+desktop.ini
